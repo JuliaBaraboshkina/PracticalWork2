@@ -12,5 +12,5 @@
 
 #### Результат работы программы:
 
-![image](https://user-images.githubusercontent.com/90133237/223454920-6f186b76-6a4e-4ef7-9366-ecbe84036e24.png)
+![image](https://user-images.githubusercontent.com/90133237/223455197-ce5f1319-6263-43a8-b256-730c682ffeee.png)
 
