@@ -40,7 +40,7 @@ public class Main {
         System.out.println("\n4) Конкатенация всех имен в одну большую строку через пробел ");
         String res4 = allPeople.stream()
                 .map(Human::getName)
-                .collect(Collectors.joining(", "));
+                .collect(Collectors.joining(" "));
         System.out.println(res4);
     }
 }
